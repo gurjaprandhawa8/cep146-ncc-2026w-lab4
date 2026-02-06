@@ -5,5 +5,5 @@ gurjap singh
 #Student Email
 gsingh1344@myseneca.ca
 
-A merge is when code from one branch.it is action that changes the code 
-A pull request is when you ask for your changes in one branch to be added to another branch . it is for review and discussion. 
+Difference between git merge and pull request:
+A git merge combines branches, while a pull request asks for review before merging. 
